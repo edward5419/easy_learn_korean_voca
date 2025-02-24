@@ -19,4 +19,5 @@ It also incorporates the forgetting curve theory, automatically notifying you to
 <img src="https://github.com/user-attachments/assets/59f976e5-b58a-4e64-9317-a71249449b38" width="300">
 <img src="https://github.com/user-attachments/assets/5c3dd0f3-a3d8-4f46-a98a-a9718298b907" width="300">
 
-
+## Example usage
+https://youtube.com/shorts/axPn89Y3Mlg
