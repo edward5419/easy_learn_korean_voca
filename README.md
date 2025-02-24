@@ -14,7 +14,9 @@ It also incorporates the forgetting curve theory, automatically notifying you to
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/95ce4c5e-4403-4a74-bc92-72910ba13710" width="300">
-![Image](https://github.com/user-attachments/assets/e58b7076-5f31-4b50-972f-ebb5e493e5ac)
-![Image](https://github.com/user-attachments/assets/48058642-5e95-4ded-84f6-59c9e538f61d)
-![Image](https://github.com/user-attachments/assets/59f976e5-b58a-4e64-9317-a71249449b38)
-![Image](https://github.com/user-attachments/assets/5c3dd0f3-a3d8-4f46-a98a-a9718298b907)
+<img src="https://github.com/user-attachments/assets/e58b7076-5f31-4b50-972f-ebb5e493e5ac" width="300">
+<img src="https://github.com/user-attachments/assets/48058642-5e95-4ded-84f6-59c9e538f61d" width="300">
+<img src="https://github.com/user-attachments/assets/59f976e5-b58a-4e64-9317-a71249449b38" width="300">
+<img src="https://github.com/user-attachments/assets/5c3dd0f3-a3d8-4f46-a98a-a9718298b907" width="300">
+
+
