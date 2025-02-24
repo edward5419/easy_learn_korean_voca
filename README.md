@@ -1,9 +1,9 @@
 # Easy Way to Learn Korean Vocabulary
 
- When Chinese speakers learn Korean, or Korean speakers learn Chinese,  we often fail to take advantage of the striking similarities between our languages. 
+When Chinese speakers learn Korean, or Korean speakers learn Chinese,  we often fail to take advantage of the striking similarities between our languages. 
  
- Unlike native English speakers, who find it easy to learn French or Spanish  
-thanks to shared linguistic roots,  we tend to treat East Asian languages as if they were as foreign to each other  as they are to English.  
+Unlike native English speakers, who find it easy to learn French or Spanish thanks to shared linguistic roots,
+we tend to treat East Asian languages as if they were as foreign to each other  as they are to English.  
 
 This vocabulary app uses Chinese characters (汉字),  a common linguistic feature in East Asian languages, to help learners master words more easily and intuitively.  
 It also incorporates the forgetting curve theory, automatically notifying you to review completed chapters  at the optimal time for retention.
